@@ -10,6 +10,7 @@ Her mini proje ,OOP nin temel kavramlarını öğrenmek ve uygulamak amacıyla h
 - İdman programı
 - Araç kiralama sistemi
 - Sayı tahmin oyunu
+- Beyblade oyunu
 
 ---
 

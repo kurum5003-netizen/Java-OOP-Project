@@ -23,7 +23,7 @@ Her mini proje ,OOP nin temel kavramlarını öğrenmek ve uygulamak amacıyla h
 
 ## DEVELOPER
 **AD SOYAD :** _Hasan Berk Kurum_
-**GİT HUB :**
+**GİT HUB :** https://github.com/kurum5003-netizen
 
 --
 

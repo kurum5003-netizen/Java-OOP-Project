@@ -1,4 +1,4 @@
-# Java-OOP-Project
+# Java-OOP-Project(Basic)
 bu depo,Java ile yazılmış **OOP projelerini** içermektedir.
 Her mini proje ,OOP nin temel kavramlarını öğrenmek ve uygulamak amacıyla hazırlanmıştır.
 

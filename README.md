@@ -8,7 +8,6 @@ Her mini proje ,OOP nin temel kavramlarını öğrenmek ve uygulamak amacıyla h
 - ATM projesi
 - Çalışanlar projesi
 - İdman programı
-- Araç kiralama sistemi
 - Sayı tahmin oyunu
 - Beyblade oyunu
 
